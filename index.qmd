@@ -1,7 +1,9 @@
 ---
 title: "myblog"
+author: "Claire Saunders"
+date: 2026-01-14
 ---
 
-This is a Quarto website.
+# Hello world
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is my first blog post on my Quarto blog!
