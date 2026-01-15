@@ -2,23 +2,16 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About this Website",
     "section": "",
-    "text": "About this site"
+    "text": "This site contains a blog post written for DSCI 542: Communications. This is a course in the MDS program, Vancouver Cohort."
   },
   {
-    "objectID": "posts/about.html",
-    "href": "posts/about.html",
-    "title": "About",
+    "objectID": "posts/first_post.html",
+    "href": "posts/first_post.html",
+    "title": "My First Post",
     "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "First Post",
-    "section": "",
-    "text": "No matching items"
+    "text": "Hello world\nThis is my first blog post on my Quarto blog!"
   },
   {
     "objectID": "index.html",

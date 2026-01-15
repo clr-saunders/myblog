@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About this Website"
 ---
 
-About this site
+This site contains a blog post written for DSCI 542: Communications. This is a course in the MDS program, Vancouver Cohort. 
