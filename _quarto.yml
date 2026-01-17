@@ -12,6 +12,7 @@ website:
 blog:
   type: blog
   authors: ["Claire Saunders"]
+  theme: cosmo
 
 site-url: "https://clr-saunders.github.io/myblog/"
 
