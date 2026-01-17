@@ -1,8 +1,9 @@
 ---
 title: "The Hypothesis Test"
-subtitle: "Scientific Results and the Evolution of Understanding"
 title-align: center
+subtitle: "Scientific Results and the Evolution of Understanding"
 author: "Claire Saunders"
+navbar: false
 date: 2026-01-17
 bibliography: references.bib
 format:
