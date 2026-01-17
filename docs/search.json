@@ -16,8 +16,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "myblog",
+    "title": "The Hypothesis Test",
     "section": "",
-    "text": "Hello world\nThis is my first blog post on my Quarto blog!"
+    "text": "A hypothesis test is central to establishing scientific discoveries. However, when one scrolls through social media and reads a headline like “Red wine is good for your heart”, the specific mechanics of how the results were established may not be considered. But without an appreciation for the scientific method, it might seem very suspicious when later on you read a headline like “Red wine increases the risk of heart disease!”, and you may begin to wonder whether science is just a strange guessing game.\n\n\n\n\n\n\nTwo Headlines, Opposite Findings?\n\n\n\nFigure 1 and Figure 2 illustrate two scientifically grounded studies with apparently contradictory conclusions.\n\n\n\n\n\n\n\n\nFigure 1\n\n\n\n\n\n\n\n\n\nFigure 2\n\n\n\nTrust in science as a paradigm for truth predicts attitudes towards scientific issues - such as following health orders during a worldwide pandemic, or engaging in climate action (Peng 2022). So, a lack of trust in the scientific method can have real consequences. In this article, I demystify a central component of the scientific method, the hypothesis test. I demonstrate that the hypothesis test framework explains the possibility of conflicting headlines without diminishing the significance of scientific discovery."
   }
 ]
