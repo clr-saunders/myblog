@@ -2,17 +2,18 @@
 title: "The Hypothesis Test"
 title-align: center
 subtitle: "Scientific Results and the Evolution of Understanding"
+navbar: False
 author: "Claire Saunders"
-navbar: false
 date: 2026-01-17
 bibliography: references.bib
+title-block-banner: true
 format:
   html:
-    theme: cosmo 
-    primary-accent-color: "#4CAF50"
+    theme: cosmo
     toc: true
     toc-depth: 3
 ---
+
 
 ## Is Science Just Guessing? 
 
@@ -23,7 +24,6 @@ A hypothesis test is central to establishing scientific discoveries. However, wh
 
  @fig-wine and @fig-wine2 illustrate two scientifically grounded studies with **apparently contradictory conclusions**. 
 :::
-
 
 
 ::: {#fig-wine}
@@ -73,7 +73,7 @@ When conducting a hypothesis test, scientists do not know whether they live in t
 
 ## Now, back to conflicting headlines...
 
-Now, with the hypothesis test framework demystified, we can contextualize the headline as a broad simplification of a much more complex and qualified scientific result. When the headline says "Red Wine is good for your heart!"- dig into the article and find out what was actually tested, because there must be a specific claim that was tested, at some level of significance, on some specific population, and it is very likely that the apparently conflicting results are actually different hypothesis tests that aren't examining the same population, or exactly the same research question. Additionally, with the hypothesis framework in mind, we can expect to see change in scientific results over time, as we reject previous ideas in favour of new ideas, and improve studies and examine new evidence. 
+Now, with the hypothesis test framework demystified, we can contextualize a headline as a broad simplification of a much more complex and qualified scientific result. When the headline says "Red Wine is good for your heart!"- dig into the article and find out what specific claim was tested, because there must be a hypothesis tested at some significance level, on some specific population.  It is very likely that the apparently conflicting headlines are from studies with different hypotheses. They may not have examined the same population, or exactly the same research question, or they may have used different methods. So, while both headlines may appear to represent science disagreeing with itself -  both studies may have found a unique and specific significant result. Additionally, with the hypothesis framework in mind, we can expect to see change in scientific results over time, as we reject previous ideas in favour of new ideas, improve studies and examine new evidence! 
 
 
 ## References
